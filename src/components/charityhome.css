@@ -1,0 +1,18 @@
+.charityhome-container{
+    background-color: black;
+    color:white;
+    height: 90%;
+    width:100%;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+  
+.charity-list > div{
+    justify-content: center;
+    flex-wrap: wrap;
+
+}

@@ -1,0 +1,21 @@
+header {
+    background-color: green;
+    color:black;
+    height: 10%;
+    width: 100%;
+
+    display: inline-block;
+    align-items: center;
+    font-size: 3em;
+    padding-bottom: 1%;
+}
+
+header div {
+    text-align: center;
+}
+
+header .header-links {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
