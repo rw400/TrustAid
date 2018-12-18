@@ -1,3 +1,31 @@
+# TrustAid
+
+TrustAid is a decentralized platform where the users can select trusted Charities, search for crucial donation items and receive tokens as incentive rewards. In return they spend and save on categories best suited for them.
+
+Problem Example: Grocery stores waste/ throws out huge abundance of edible foods regularly and can be better serve to Charities such as local food banks, Red Cross or in the event of a global crisis relief.
+
+The smart contract returns tokens for meeting the criteria requested by the trusted Charity.
+It targets more wholesale companies/business: bulk orders recieves larger incentives that can be later applied for purchasing discounts towards the business (ie. from suppliers).
+Small incentive reward for having a verified account and donating Quality products regularly. (weekly, monthly)
+
+Bonus tokens are rewarded for urgent requests (world crysis)
+
+
+Tokens use:
+- recieve discounts when purchasing next shipment of inventory from suppliers/ farmers
+- support local farmers, manufactures
+	- Farmers are able to spend tokens on equipment from other donors, liquidation auction
+	- higher wages
+- continuous cycle
+
+Abilty to stake a small amount of tokens:
+- Adds Trust, verified account holder
+- Choose which Charity/ destination to support
+- Where to send funds: percentage for each catergory
+	- Insider look at percentage taken from distribution, labour wages, transportation
+- Tax purposes, helping support trusted charities, local businesses
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
